@@ -1,0 +1,22 @@
+{
+    "name": "oprpg",
+    "title": "One Piece NPCS",
+    "description": "A module containing the exported One Piece NPCS compendium.",
+    "version": "1.0.0",
+    "library": "false",
+    "manifestPlusVersion": "1.0.0",
+    "minimumCoreVersion": "9",
+    "compatibleCoreVersion": "9",
+    "author": "Noroi",
+    "packs": [
+        {
+            "type": "Actor",
+            "label": "One Piece NPCS",
+            "module": "oprpg",
+            "path": "packs/world-one-piece-npcs-1648149122270.db",
+            "name": "world-one-piece-npcs-1648149122270"
+        }
+    ],
+    "manifest": "http://localhost:30000/compendium2module/oprpg/module.json",
+    "download": "http://localhost:30000/compendium2module/oprpg/module-zip.txt"
+}
